@@ -1,9 +1,9 @@
-# Projeto: dnsfilter/adware
+# Projeto: dnsAdlist/adware
 
 ### INFORMACOES INICIAIS
 # OBJETIVO: Filtro de conteudo via DNS.
 # Pequena descricao: Bloquear enderecos publicos para a protecao da rede local contra phishing.
-# Releases: https://raw.githubusercontent.com/leon4rdojs/dnsfilter/refs/heads/main/adware
+# Releases: https://raw.githubusercontent.com/leon4rdojs/dnsAdlist/refs/heads/main/adware
 # Data de criacao: 11/11/2024
 # Data de atualizacao: 11/11/2024
 ### INFORMACAO FINAL
